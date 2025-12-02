@@ -1,0 +1,36 @@
+1   Start Program
+        ↓
+2   Load Variables
+        ↓
+3   Display Welcome Screen
+        ↓
+4   Display Main Menu
+        1. Book Room        2. View Reservations        3. Exit
+        ↓
+5   Enter Choice
+        ↓
+6   Is Choice = 1 ?
+        ↓                ↘
+      Yes                 No
+      ↓                   ↓
+7   Enter Room Number     Is Choice = 2 ?
+      ↓                   ↓             ↘
+8   Is Room Available ?    Yes           No
+      ↓        ↘           ↓             ↓
+    Yes         No       11 View         13 Invalid Choice
+      ↓          ↓          Reservations     ↓
+9   Enter Guest Name       ↓               Return to Menu
+      ↓                    ↓
+10 Enter Days of Stay      Return to Menu
+      ↓
+   Book Room
+      ↓
+   Return to Menu
+
+14  Is Choice = 3 ?
+      ↓         ↘
+     Yes        No
+      ↓         ↓
+15  Exit Program   Return to Menu
+      ↓
+16  End
