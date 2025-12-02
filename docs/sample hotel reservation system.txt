@@ -1,0 +1,19 @@
+1   -   Start Program
+2   -   Load Variables
+3   -   Show Welcome Screen
+
+4   -   Show Main Menu
+5   -   Choose Option
+
+10  -   Book Room Selected
+11  -   Enter Room Number
+12  -   Check Room Availability
+13  -   Room Available → Enter Guest Name
+14  -   Enter Days of Stay
+15  -   Confirm Booking
+
+20  -   View Reservations Selected
+
+30  -   Invalid Choice → Return to Menu
+
+40  -   Exit Program
